@@ -1,8 +1,6 @@
+<h1 align="center">Hi 👋, I'm Juan Manunel</h1>
 <img src="https://i.pinimg.com/originals/25/48/19/254819622e6fd49afb970451be88e8d0.gif" alt="" 
-style="height: 50px; width: 50px;"><h1 align="center">Hi 👋, I'm Juan Manunel</h1><img src="https://i.pinimg.com/originals/25/48/19/254819622e6fd49afb970451be88e8d0.gif" alt="" 
-style="height: 50px; width: 50px;">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jmc5603&label=Profile%20views&color=6a05bd&style=plastic" alt="jmc5603" /> </p>
-
+height = 50px width= 50px>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jmc5603" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jmc5603" height="30" width="40" /></a>
